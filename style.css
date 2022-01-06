@@ -22,8 +22,7 @@
     margin-left: 17px;
     width: 503px;
     text-align: left;
-    color: rgba(0, 0, 0, 1);
-    font-family: Yeseva One;
+    color: black;
     font-weight: 400;
     font-size: 60px;
    
@@ -39,7 +38,7 @@
   .ls-sec-1 h1 span{
     display: inline-block;
     margin-top: 19px;
-    color: rgba(255, 173, 90, 1);
+    color: orange;
   }
   
   .ls-sec-1 p{
@@ -48,8 +47,9 @@
     margin-top: 30px;
     width: 560px;
     text-align: left;
-    color: rgba(51, 51, 51, 1);
-    font-style: normal;font-family: Poppins;
+    color: black;
+    font-style: normal;
+    font-family: Poppins;
     font-weight: 400;
     font-size: 18px;
   
@@ -60,10 +60,10 @@
     margin-top: 21px;
     margin-left: 17px;
     padding: 12px 33px;
-    background-color: rgba(255, 89, 89, 1);
+    background-color: orangered;
     border-radius: 5px;
     text-align: left;
-    color: rgba(255, 255, 255, 1);
+    color: white;
     font-family: Poppins;
     font-weight: 500;
     font-size: 16px;
@@ -91,14 +91,14 @@
   }
   
   .sec-2 h1{
-    color: rgb(16, 20, 56);
+    color: black;
     font-family: Poppins;
     font-weight: 700;
     font-size: 48px;
     text-align: center;   
   }
   .sec-2 h1 span{
-    color: rgba(255, 173, 90, 1);
+    color: orangered;
   }
   .box-sticker-sec-2{
     display: flex;
@@ -119,29 +119,29 @@
     margin-bottom: 10px;
   }
   .sticker-sec-2 h2{
-    color: rgba(19, 16, 58, 1);
+    color: black;
     font-family: Poppins;
     font-weight: 600;
     font: 30px;
     margin-bottom: 10px;
   }
   .sticker-sec-2 p{
-    color: rgba(66, 66, 66, 1);
+    color: black;
     font-family: Poppins;
     font-weight: 400;
   }
   
   #sticker-1-sec-2{
-    background-color: rgb(238, 252, 255);
+    background-color: gainsboro;
     margin-left: 110px;
   }
   #sticker-2-sec-2{
-    background-color: rgb(255, 244, 244);
+    background-color: lightsalmon;
     margin-left: 30px;
     margin-right:30px
   }
   #sticker-3-sec-2{
-    background-color: rgb(255, 214, 168);
+    background-color: lightskyblue;
     margin-right: 110px;
   }
 
@@ -164,7 +164,7 @@
     margin-left: 17px;
     width: 503px;
     text-align: left;
-    color: rgb(46, 46, 46);
+    color: black;
     font-family: Poppins;
     font-weight: 700;
     font-size: 35px;
@@ -177,7 +177,7 @@
     margin-left: 18px;
     margin-top: 23px;
     width: 659px;
-    color: rgb(80, 77, 77);
+    color: gray;
     font-family: Poppins;
     font-weight: 400;
     font-size: 18px;
@@ -217,7 +217,7 @@
     margin-left: 17px;
     width: 503px;
     text-align: left;
-    color: rgb(46, 46, 46);
+    color: black);
     font-family: Poppins;
     font-weight: 700;
     font-size: 35px;
@@ -230,7 +230,7 @@
     margin-left: 18px;
     margin-top: 23px;
     width: 659px;
-    color: rgb(80, 77, 77);
+    color: black;
     font-family: Poppins;
     font-weight: 400;
     font-size: 18px;
@@ -258,7 +258,7 @@
     margin-bottom: -165px;
   }
   .sec-5 h1{
-    color: rgb(16, 20, 56);
+    color: black;
     font-family: Poppins;
     font-weight: 700;
     font-size: 48px;
@@ -266,7 +266,7 @@
   }
   
   .sec-5 h1 span{
-    color: rgba(255, 173, 90, 1);
+    color: orange;
   }
   .tree-sec-5{
     display: flex;
@@ -280,7 +280,7 @@
     margin-left: 17px;
     width: 503px;
     text-align: left;
-    color: rgb(19, 6, 56);
+    color: black;
     font-family: Poppins;
     font-weight: 700;
     font-size: 35px;
@@ -291,7 +291,7 @@
     margin-left: 18px;
     margin-top: 23px;
     width: 546px;
-    color: rgb(80, 77, 77);
+    color: black;
     font-family: Poppins;
     font-weight: 400;
     font-size: 18px;
@@ -314,7 +314,7 @@
   }
   
   .rs-sec-5 h2 span{
-    color: rgba(255, 173, 90, 1);
+    color: orange;
     display: inline-block;
     margin-top: 5px;
     font-size: 40px;
@@ -322,7 +322,7 @@
   }
 
   footer{
-    background-color: rgb(31, 28, 28);
+    background-color: black;
     text-align: center;
     color: white;
     height: 190px;
@@ -333,16 +333,16 @@
     margin-top: 57px;
     font-family: Lobster;
     font-weight: 400;
-    font-size: 36px;
-    letter-spacing: 0.18px;
+    font-size: 46px;
+    letter-spacing: 0.2px;
   }
   footer div h2 span{
-    color: rgba(255, 89, 89, 1);
+    color: orangered;
   }
   
   footer div p{
     margin-top: 5px;
-    color: rgba(217, 219, 225, 1);
+    color: white;
     font-family: Manrope;
     font-weight: 400;
     font-size: 14px;
